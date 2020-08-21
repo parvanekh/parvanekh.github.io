@@ -1,57 +1,50 @@
-﻿### Resume
+﻿### 
 ```
- پروانه خانی
+ parvane khani
  
 ```
 ![Logo](https://parvanekh.github.io/IMG_9184.JPG)
 
-###
-
-بیوگرافی
 ---
-+     متولد 18تیر ماه 1369 ، ساکن یزد ، متاهل ، دارای یک فرزند 
 
+TEL  : 09134514328 <br/>
+Mail : parvane1829@gmail.com <br/>
+Persian Resume : [link to Resume.](https://parvanekh.github.io/resume.pdf) <br/>
+quera link : https://quera.ir/profile/parvane.k18h
 
-###
-
-ایمیل
+###Biography
 ---
-+     parvane1829@gmail.com
++      Date of birth:1369/04/18 
++      I was born and live in yazd . I'm married.and i have a child.I'm now a hospital employee.
 
 
-###
 
-Quera link
+###Education
 ---
-+     https://quera.ir/profile/parvane.k18h
++       software engineering postgraduate student in payam-noor university of tehran
++       Computer Engineering Expert-software Orientation -valiasr university of rafsanjan
++       I have a degree in industrial accounting 
 
 
-###
-
-تحصیلات
+###work experience
 ---
-+       دانشجوی کارشناسی ارشد مهندسی نرم افزار دانشگاه پیام نور تهران
-+       کارشناسی مهندسی کامپیوتر گرایش نرم افزار دانشگاه ولیعصر رفسنجان
-+       دارای مدرک حسابداری صنعتی 
++     teacher of Industrial Accounting for 1 year in the private school of hesaban-taraz
 
-
-###
-
-سابقه کار
----
-+     مدرس حسابداری صنعتی به مدت 1 سال در آموزشگاه خصوصی حسابان تراز
-
-+     کارشناس فروش به مدت 2 سال در ساختمان بورس
++     Insurance marketer for 2 years.
  
-+     کارمند بیمارستان از سال 1395 
++     hospital employee from 1395 
 
 
-###
 
-علاقه مندی
+###skill
 ---
-+     یادگیری وپیشرفت در زمینه برنامه نویسی
++     ICDL
   
-+     زبان انگلیسی
++     Photoshop
 
-+     موسیقی
++     Accounting
+
+
+###language
+---
++    english(non - professional)
