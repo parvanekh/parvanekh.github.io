@@ -1,4 +1,9 @@
-![Logo](https://parvanekh.github.io/Untitled1.png)
+﻿### Resume
+```
+ پروانه خانی
+ 
+```
+![Logo](https://parvanekh.github.io/IMG_9184.JPG)
 
 ###
 
