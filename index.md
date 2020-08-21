@@ -1,4 +1,4 @@
-![Logo](https://github.com/parvanekh/parvanekh.github.io/blob/master/Untitled1.png)
+![Logo](https://parvanekh.github.io/Untitled1.png)
 
 ###
 
