@@ -1,7 +1,8 @@
 ﻿### 
 ```
  parvane khani
- I am 30years old. I want to learn more and more about computer programming
+ I am 30years old. Currently i am working in hospital and my job is not related to my field of study 
+ butI want to learn more and more about computer programming.
  I'm interested in music,studying and English.
  
 ```
