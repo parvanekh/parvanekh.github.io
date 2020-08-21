@@ -51,3 +51,7 @@ quera link : https://quera.ir/profile/parvane.k18h
 ###language
 ---
 +    english(non - professional)
+
+###resume assessment
+---
+(https://parvanekh.github.io/PKH_CV_CheckList_AR_3983.pdf)
