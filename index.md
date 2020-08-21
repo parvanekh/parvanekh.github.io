@@ -53,4 +53,4 @@ quera link : https://quera.ir/profile/parvane.k18h
 +    english(non - professional)
 
 
-[resume assessment.](https://parvanekh.github.io/PKH_CV_CheckList_AR_3983.pdf)<br/>
+Resume Assessment : [link to Resume Assessment.](https://parvanekh.github.io/PKH_CV_CheckList_AR_3983.pdf) <br/>
