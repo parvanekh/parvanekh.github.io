@@ -1,6 +1,8 @@
 ﻿### 
 ```
  parvane khani
+ I am 30years old. I want to learn more and more about computer programming
+ I'm interested in music,studying and English.
  
 ```
 ![Logo](https://parvanekh.github.io/IMG_9184.JPG)
